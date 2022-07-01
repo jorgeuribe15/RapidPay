@@ -21,4 +21,8 @@
     <ProjectReference Include="..\Payments.Service\Payments.Service.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+
 </Project>
