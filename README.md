@@ -1,6 +1,8 @@
 # RapidPay
 Code Test
 
+Under Payment.Data project, folder Data you can download de DB Backup
+
 https://[server]/api/CardManagement/createcard
 
 {
